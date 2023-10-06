@@ -1,2 +1,2 @@
-otro read
+mi primer script
 
